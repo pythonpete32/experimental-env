@@ -8,23 +8,23 @@
 ### rename window
 - Ctrl + a + o
 
-# new window
+### new window
 - Ctrl - t or t 
 
-# kill panes
+### kill panes
 - Ctrl - w or w to 
 
-# kill session
+### kill session
 - C + control q to 
 
-# Switching panes with alt
+### Switching panes with alt
 - alt + direction key
 
-# New session
+### New session
 - Ctrl + a + n 
 
-#  Next window
+###  Next window
 - Ctrl + a + Pagedown
 
-# Previous window
+### Previous window
 - Ctrl + a + Pagup 
