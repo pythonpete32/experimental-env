@@ -1,3 +1,6 @@
+### Resize
+- Ctrl + a + <direction>
+
 
 ### Vertical splits 
 - g or C-g
